@@ -34,7 +34,7 @@
         <mxCell id="c1mcDXtlMgTCnM3GORLG-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="c1mcDXtlMgTCnM3GORLG-39" target="c1mcDXtlMgTCnM3GORLG-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c1mcDXtlMgTCnM3GORLG-39" value="推理引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="c1mcDXtlMgTCnM3GORLG-39" value="推理引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;dashed=1;dashPattern=12 12;" parent="1" vertex="1">
           <mxGeometry x="140" y="640" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="c1mcDXtlMgTCnM3GORLG-40" value="功能模块" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -60,8 +60,8 @@
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-4" value="websocket server 向前端推送文字和动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="310" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6MQNHj9zN-R4hqNwyuVg-5" value="interact 交互主逻辑&lt;div&gt;streammanager 流式响应管理&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="545" y="530" width="190" height="30" as="geometry" />
+        <mxCell id="6MQNHj9zN-R4hqNwyuVg-5" value="interact 交互主逻辑&lt;div&gt;streammanager 流式响应管理&lt;/div&gt;&lt;div&gt;业务实现逻辑&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="530" width="190" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-6" value="fay core 调用大模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-150" y="650" width="190" height="30" as="geometry" />
@@ -78,7 +78,7 @@
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6MQNHj9zN-R4hqNwyuVg-11" target="c1mcDXtlMgTCnM3GORLG-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="6MQNHj9zN-R4hqNwyuVg-11" value="工具调度层（业务逻辑实现）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="6MQNHj9zN-R4hqNwyuVg-11" value="工具调度层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="160" y="400" width="200" height="60" as="geometry" />
         </mxCell>
       </root>
