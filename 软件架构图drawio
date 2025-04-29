@@ -55,10 +55,10 @@
           <mxGeometry x="568" y="119" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-3" value="接口，api/send（发送消息）&amp;nbsp; api/start-live（启动数字人）&lt;div&gt;api/get-data （获取配置信息）&lt;/div&gt;&lt;div&gt;/v1/chat/completions(流式聊天接口)&lt;/div&gt;&lt;div&gt;/avatar（新开虚拟人窗口）&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="560" y="180" width="160" height="100" as="geometry" />
+          <mxGeometry x="443.5" y="170" width="393" height="100" as="geometry" />
         </mxCell>
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-4" value="websocket server 向前端推送文字和动作" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="560" y="310" width="160" height="30" as="geometry" />
+          <mxGeometry x="560" y="300" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6MQNHj9zN-R4hqNwyuVg-5" value="interact 交互主逻辑&lt;div&gt;streammanager 流式响应管理&lt;/div&gt;&lt;div&gt;业务实现逻辑&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="545" y="530" width="190" height="40" as="geometry" />
