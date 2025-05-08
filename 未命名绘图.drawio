@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.1">
   <diagram name="第 1 页" id="I95JbXtNGWgH5xwKB5yV">
-    <mxGraphModel dx="4701" dy="1751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4396" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -194,7 +194,7 @@
           <mxGeometry x="-440" y="600" width="200" height="120" as="geometry" />
         </mxCell>
         <mxCell id="fTQGhy_KuE080tfiFoKc-93" value="&lt;font&gt;外部设备&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="-1080" y="560" width="96" height="30" as="geometry" />
+          <mxGeometry x="-1060" y="560" width="96" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fTQGhy_KuE080tfiFoKc-95" value="控制调度器调用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=23;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1460" y="1020" width="160" height="80" as="geometry" />
