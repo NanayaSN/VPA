@@ -1,9 +1,15 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0" version="27.0.1">
   <diagram name="第 1 页" id="I95JbXtNGWgH5xwKB5yV">
-    <mxGraphModel dx="4396" dy="1576" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2416" dy="438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fTQGhy_KuE080tfiFoKc-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-800" y="280" width="2600" height="1200" as="geometry" />
+        </mxCell>
+        <mxCell id="fTQGhy_KuE080tfiFoKc-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-520" y="360" width="2240" height="1040" as="geometry" />
+        </mxCell>
         <mxCell id="sMUGGOTOOfTNRBkPoHL0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.758;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitPerimeter=0;labelBackgroundColor=none;" edge="1" parent="1" source="fTQGhy_KuE080tfiFoKc-57" target="W1cWigIIP-MbPUgCHYr4-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -34,12 +40,6 @@
         <mxCell id="W1cWigIIP-MbPUgCHYr4-67" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="520" y="440" width="240" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="fTQGhy_KuE080tfiFoKc-117" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-800" y="280" width="2600" height="1200" as="geometry" />
-        </mxCell>
-        <mxCell id="fTQGhy_KuE080tfiFoKc-110" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-520" y="360" width="2240" height="1040" as="geometry" />
-        </mxCell>
         <mxCell id="W1cWigIIP-MbPUgCHYr4-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#d79b00;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-480" y="560" width="280" height="440" as="geometry" />
         </mxCell>
@@ -61,17 +61,6 @@
         <mxCell id="sMUGGOTOOfTNRBkPoHL0-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;串口控制指令&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="fTQGhy_KuE080tfiFoKc-87">
           <mxGeometry x="0.0003" y="-4" relative="1" as="geometry">
             <mxPoint x="-69" y="-16" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="xfih0z-EmHiZagL1sw-e-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.208;exitDx=0;exitDy=0;fontFamily=Times New Roman;strokeWidth=2;fontSize=23;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;labelBackgroundColor=none;" parent="1" source="fTQGhy_KuE080tfiFoKc-39" edge="1" target="W1cWigIIP-MbPUgCHYr4-67">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1170" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="W1cWigIIP-MbPUgCHYr4-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;音频流&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=23;labelBackgroundColor=none;" parent="xfih0z-EmHiZagL1sw-e-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.1464" relative="1" as="geometry">
-            <mxPoint x="11" y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fTQGhy_KuE080tfiFoKc-39" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#6c8ebf;strokeWidth=4;fontSize=23;fontFamily=Times New Roman;labelBackgroundColor=none;" parent="1" vertex="1">
@@ -415,6 +404,17 @@
         <mxCell id="sMUGGOTOOfTNRBkPoHL0-13" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;读取配置&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;写入数据&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="sMUGGOTOOfTNRBkPoHL0-12">
           <mxGeometry x="0.0263" relative="1" as="geometry">
             <mxPoint x="3" y="-50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMUGGOTOOfTNRBkPoHL0-24" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1.001;exitY=0.208;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="fTQGhy_KuE080tfiFoKc-39" target="W1cWigIIP-MbPUgCHYr4-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="700" as="sourcePoint" />
+            <mxPoint x="400" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sMUGGOTOOfTNRBkPoHL0-25" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;音频流&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="sMUGGOTOOfTNRBkPoHL0-24">
+          <mxGeometry x="0.1384" y="-1" relative="1" as="geometry">
+            <mxPoint x="-11" y="-21" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
